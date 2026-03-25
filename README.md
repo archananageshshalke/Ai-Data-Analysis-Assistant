@@ -41,16 +41,16 @@ This project demonstrates how modern data analysts can move beyond dashboards an
 ## 📸 Screenshots
 
 ### 🔹 Application Interface
-![App UI](screenshots/app_interface.png)
+![App UI](App_Screenshots/app_interface.png)
 
 ### 🔹 Highest Fare Analysis
-![Fare](screenshots/highest_fare_analysis.png)
+![Fare](App_Screenshots/highest_fare_analysis.png)
 
 ### 🔹 Survival Analysis
-![Survival](screenshots/survival_analysis.png)
+![Survival](App_Screenshotssurvival_analysis.png)
 
 ### 🔹 Automated Insights
-![Insights](screenshots/automated_insights.png)
+![Insights](App_Screenshots/automated_insights.png)
 
 ---
 
