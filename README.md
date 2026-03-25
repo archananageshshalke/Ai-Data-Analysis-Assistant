@@ -47,7 +47,7 @@ This project demonstrates how modern data analysts can move beyond dashboards an
 ![Fare](App_Screenshots/highest_fare_analysis.png)
 
 ### 🔹 Survival Analysis
-![Survival](App_Screenshots/survival_analysis.png)
+![Survival](App_Screenshots/survival-analysis.png)
 
 ### 🔹 Automated Insights
 ![Insights](App_Screenshots/automated_insights.png)
